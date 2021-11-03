@@ -27,25 +27,27 @@ main {
   background-color: #ff9a4b;
   color: rgb(255, 255, 255);
   position: absolute;
-  margin: 0;
+  top: 0;
+  left: 0;
 }
 .section2 {
   background-color: #ff9a4b;
   color: rgb(255, 255, 255);
   position: absolute;
-  margin: 0;
+  top: 0;
+  left: 0;
 }
 .section3 {
   background-color: #ff9a4b;
   color: rgb(255, 255, 255);
   position: absolute;
-  margin: 0;
+  top: 0;
+  left: 0;
 }
 .blog-img {
   height: 150px;
   width: 280px;
   margin-bottom: 15px;
-  margin-top: 10px;
 }
 .blog-title {
   margin-bottom: 5px;
