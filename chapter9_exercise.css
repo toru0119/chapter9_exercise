@@ -57,3 +57,24 @@ footer {
   width: 100%;
   height: 50px;
 }
+@media screen and (max-width: 768px) {
+  main {
+    width: 100%;
+    margin: 50px auto;
+  }
+  .main-box {
+    display: block;
+    width: 90%;
+  }
+  .blog-section{
+    margin-bottom: 20px;
+  }
+  .blog-img{
+    height: 150px;
+    width: 100%;
+  }
+  .blog-section{
+
+  }
+
+}
